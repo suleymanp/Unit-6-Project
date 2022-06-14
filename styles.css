@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+
+.title {
+    font-size: 50px;
+    background-color: #EF3E42;
+    padding: 0 20px;
+    font-weight: 800;
+}
+
+.logo {
+    height: 350px;
+    padding: 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.LA {
+    margin: 10px;
+    background-color: #005A9C;
+}
+
+.SF {
+    margin: 10px;
+    background-color: #FD5A1E;
+}
+
+.Kershaw {
+    height: 350px;
+}
+
+.strike-out {
+    height: 350px;
+}
+
+.Flores {
+    height: 350px;
+}
+
+.victory-walk-off {
+    height: 350px;
+}
+
+.victory-for-SF {
+    height: 450px;
+}
